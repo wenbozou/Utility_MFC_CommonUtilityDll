@@ -1,0 +1,1 @@
+"C:\Program Files\7 - Zip\7z.exe" x "D:\test\cn_Win10_1909_Chinese(Simplified)_x64.iso" -o"D:\test" 
