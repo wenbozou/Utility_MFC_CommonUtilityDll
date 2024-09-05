@@ -158,7 +158,7 @@
       <SubSystem>Windows</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalLibraryDirectories>../../bin/$(Configuration)\</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>../../bin/$(Platform)/$(Configuration)\</AdditionalLibraryDirectories>
       <AdditionalDependencies>CommonUtilitySDK.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <Midl>
